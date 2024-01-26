@@ -1,0 +1,14 @@
+{
+  "name": "gsau_portal_test",
+  "version": "1.0.0",
+  "description": "Test whether the functions of each part of the transcribed JavaScript code are implemented separately.",
+  "main": "index.js",
+  "repository": "null",
+  "author": "pcfanlxz",
+  "license": "AGPL-3.0",
+  "private": null,
+  "dependencies": {
+    "axios": "^1.6.7",
+    "node-schedule": "^2.1.1"
+  }
+}
